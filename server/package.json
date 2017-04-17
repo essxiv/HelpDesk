@@ -1,0 +1,26 @@
+{
+  "name": "personal_enterprise",
+  "version": "1.0.0",
+  "description": "personal enterprise application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/essxiv.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "greg hasenauer",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/github.com/essxiv/issues"
+  },
+  "homepage": "https://github.com/github.com/essxiv#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
